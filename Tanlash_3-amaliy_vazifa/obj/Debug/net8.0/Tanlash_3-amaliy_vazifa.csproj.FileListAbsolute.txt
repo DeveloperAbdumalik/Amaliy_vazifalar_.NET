@@ -1,0 +1,14 @@
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\bin\Debug\net8.0\Tanlash_3-amaliy_vazifa.exe
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\bin\Debug\net8.0\Tanlash_3-amaliy_vazifa.deps.json
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\bin\Debug\net8.0\Tanlash_3-amaliy_vazifa.runtimeconfig.json
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\bin\Debug\net8.0\Tanlash_3-amaliy_vazifa.dll
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\bin\Debug\net8.0\Tanlash_3-amaliy_vazifa.pdb
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.AssemblyInfoInputs.cache
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.AssemblyInfo.cs
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.csproj.CoreCompileInputs.cache
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.dll
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\refint\Tanlash_3-amaliy_vazifa.dll
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.pdb
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\Tanlash_3-amaliy_vazifa.genruntimeconfig.cache
+C:\Users\Abdumalik\Desktop\.NET\Tanlash_3-amaliy_vazifa\obj\Debug\net8.0\ref\Tanlash_3-amaliy_vazifa.dll
